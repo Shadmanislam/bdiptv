@@ -893,3 +893,5 @@ https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1,Nick JR.
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
+#EXTINF:-1,Discovery india.
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
