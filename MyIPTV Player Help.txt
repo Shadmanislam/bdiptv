@@ -1,0 +1,62 @@
+Install missing codecs
+
+1. Go to Windows Store and download apps “MPEG-2 Video Extension” and “HEVC Video Extensions”. You may need these extensions to play some of the channels
+
+Media player tips and tricks
+
+1. In the media player, right click or press and hold to bring up the options menu
+
+2. For XBOX, while in the media player, press the menu button to bring up the options menu. Press the left bumper (LB) or right bumper (RB) buttons to play the previous or next channel
+
+3. For XBOX, press the left trigger (LT) or right trigger (RT) for page up and page down
+
+4. If all channels stop playing, try closing and re-opening the app or reboot the device
+
+5. For PC and XBOX, if you have problem playing channels or videos, try turning VLC media player on in settings
+
+How to load  channels
+
+In settings tab, click 'Add new playlist and EPG source'  option and add your remote URL or local channel list file (m3u).  After channel list or remote URL is added, go back settings and under heading ' Select channel playlist', select the channel list from the dropdown menu and click the refresh button
+
+The m3u file must be in a similar format as shown below
+
+https://raw.githubusercontent.com/Shadmanislam/bdiptv/master/BD%20IPTV.m3u
+
+How to load EPG
+
+In settings tab, click 'Add new playlist and EPG source'  option and add your EPG URL or local file path. After EPG URL or local path is added, go back settings and under heading ' Select EPG source', select the EPG source from the dropdown menu and click the refresh button
+
+
+Add or remove favorites
+
+1. PC/Phone - Right click on the channel list item and select option add to favorites
+
+2. PC/Phone - Click the more button (3 dots) on the channel list item and select option add to favorites
+
+3. XBOX - Select the channel list item and press the menu button on the gamepad or remote. You can also add as favorite when a channel is playing by pressing the menu button
+
+
+How to view EPG
+
+1. Load EPG source in settings and click refresh
+
+2. Click the 'more' button (3 dots) on the channel name and select view EPG option
+
+3. In the media player, right click or press and hold to bring up the options menu (for XBOX, press menu button). Select option 'View EPG'
+
+4. For EPG to work correctly for a channel, the 'tvg-name' or 'tv-id' in your m3u file must match the 'channel id' or 'display-name' in your EPG XML file
+
+
+How to download VOD item
+
+1. To start a download, in channel listing, right click or click the more button ( For XBOX, press menu button ) on VOD item and select option 'Download VOD item'
+
+2. Click the  VOD download center option in settings for more information
+
+Troubleshooting
+
+1. If channels stop playing, try refreshing channel list in settings. This may be because your IPTV service provider has updated channel URL
+
+2. If EPG data is not available, try refreshing EPG in settings. You can also turn on the option 'Download EPG when no data available on current date'. This option will automatically download EPG when data runs out
+
+3. If channels are not playing at certain times of the week, it is possible that your internet service provider is blocking IPTV server URLs. You can subscribe for VPN services to resolve this
