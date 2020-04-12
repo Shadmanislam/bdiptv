@@ -26,9 +26,9 @@ IPTV Player play m3u playlist  (IOS , IPAD , Apple TV) : https://apps.apple.com/
 
 Tutorials
 
-Android (IPTV lite) :
+Android (IPTV lite) : https://bit.ly/3egDdvi
 
-Windows (MyIPTV Player) (Recommended) :
+Windows (MyIPTV Player) (Recommended) : 
 
 Windows (VLC) :
 
