@@ -30,7 +30,7 @@ Android (IPTV lite) : https://bit.ly/3egDdvi
 
 Windows (MyIPTV Player) (Recommended) : https://bit.ly/3a8wSPm
 
-Windows (VLC) :
+Windows (VLC) : https://bit.ly/2xmqXst
 
 
 Email: shadmanislam@zoho.com
