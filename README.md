@@ -28,7 +28,7 @@ Tutorials
 
 Android (IPTV lite) : https://bit.ly/3egDdvi
 
-Windows (MyIPTV Player) (Recommended) : 
+Windows (MyIPTV Player) (Recommended) : https://raw.githubusercontent.com/Shadmanislam/bdiptv/master/MyIPTV%20Player%20Help.txt
 
 Windows (VLC) :
 
