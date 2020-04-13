@@ -4,6 +4,8 @@ You can find 500+ channels in this IPTV playlist
 
 ALL bangladeshi IPTV links are BDIX connected.
 
+150+ channels are BDIX connected.
+
 IPTV playlist url- https://raw.githubusercontent.com/Shadmanislam/bdiptv/master/BD%20IPTV.m3u
 
 Please contribute this project and add more channel or you can also send me iptv links on my email.
