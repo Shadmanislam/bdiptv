@@ -1417,3 +1417,15 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1,Channel 24 HD
 http://tv.ebox.live:8080/live/ch24youtube.m3u8
+#EXTINF:-1,Sony Entertainment television
+http://tvserver.roarzone.info:8082/81/index.m3u8
+#EXTINF:-1,Discovery Hindi
+http://tvserver.roarzone.info:8082/44/index.m3u8
+#EXTINF:-1,Discovery HD
+http://tvserver.roarzone.info:8082/89/index.m3u8
+#EXTINF:-1,Sony BBC Earth
+http://tvserver.roarzone.info:8082/88/index.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://tvserver.roarzone.info:8082/48/index.m3u8
+#EXTINF:-1,Sony Aath
+http://tvserver.roarzone.info:8082/47/index.m3u8
