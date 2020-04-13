@@ -1429,3 +1429,11 @@ http://tvserver.roarzone.info:8082/88/index.m3u8
 http://tvserver.roarzone.info:8082/48/index.m3u8
 #EXTINF:-1,Sony Aath
 http://tvserver.roarzone.info:8082/47/index.m3u8
+#EXTINF:-1,Star jalsha movies
+http://103.58.73.26/streams/115/index.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://103.58.73.26/streams/107/index.m3u8
+#EXTINF:-1,SkyNet Sports HD
+http://172.22.22.76/live/feed1002/index.m3u8
+#EXTINF:-1,Sony Six HD
+http://172.22.22.76/live/feed1004/index.m3u8
