@@ -1413,3 +1413,5 @@ https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1,NTV (US Pacific Time)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1,Jamuna TV HD
+http://tv.ebox.live:8080/live/ex-jamuna.m3u8
