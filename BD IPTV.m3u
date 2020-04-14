@@ -67,8 +67,8 @@ https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Jamuna TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:-1,Jamuna TV HD 2
+http://tvserver.roarzone.info:8082/30/index.m3u8
 #EXTINF:-1,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1,Nagorik TV
