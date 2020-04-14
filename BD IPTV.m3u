@@ -1437,3 +1437,11 @@ http://103.58.73.26/streams/107/index.m3u8
 http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:-1,Sony Six HD
 http://172.22.22.76/live/feed1004/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://tvserver.roarzone.info:8082/55/index.m3u8
+#EXTINF:-1,Dsports HD
+http://tvserver.roarzone.info:8082/135/index.m3u8
+#EXTINF:-1,DD Sports
+http://tvserver.roarzone.info:8082/133/index.m3u8
+#EXTINF:-1,BTV 
+http://tvserver.roarzone.info:8082/104/index.m3u8
