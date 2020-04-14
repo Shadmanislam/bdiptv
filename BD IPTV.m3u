@@ -78,7 +78,7 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1,Somoy News
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+http://172.22.22.76/live/feed1006/index.m3u8
 #EXTINF:-1,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1,Star Jalsha
