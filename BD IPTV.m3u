@@ -1457,3 +1457,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/playlist.m3u8
 #EXTINF:-1,Ananda TV 
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+#EXTINF:-1,Discovery Hindi
+http://zer0live.hjkm.info:13292/juno/discoveryhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MTc6MzggUE0maGFzaF92YWx1ZT1qUEhZcTkyYVp1TjdHcmdraGF1QW93PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,Disney Hindi 
+http://35.188.178.56:2132/kids2019/disneyhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MjA6MzQgUE0maGFzaF92YWx1ZT1HNlNQY3BzS3pXazZJdU5ETXd2SWVRPT0mdmFsaWRtaW51dGVzPTI=
