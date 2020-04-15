@@ -1445,3 +1445,7 @@ http://tvserver.roarzone.info:8082/135/index.m3u8
 http://tvserver.roarzone.info:8082/133/index.m3u8
 #EXTINF:-1,BTV 
 http://tvserver.roarzone.info:8082/104/index.m3u8
+#EXTINF:-1,Peace TV Bangla 
+http://tvserver.roarzone.info:8082/52/index.m3u8
+#EXTINF:-1,Mohona TV HD
+http://tvserver.roarzone.info:8082/42/index.m3u8
