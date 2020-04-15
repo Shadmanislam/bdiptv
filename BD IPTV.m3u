@@ -50,7 +50,7 @@ https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1,Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1,Channel 24
-https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://tvserver.roarzone.info:8082/21/index.m3u8
 #EXTINF:-1,Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1,DBC News
