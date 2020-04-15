@@ -1461,3 +1461,5 @@ http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 http://zer0live.hjkm.info:13292/juno/discoveryhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MTc6MzggUE0maGFzaF92YWx1ZT1qUEhZcTkyYVp1TjdHcmdraGF1QW93PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,Disney Hindi 
 http://35.188.178.56:2132/kids2019/disneyhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MjA6MzQgUE0maGFzaF92YWx1ZT1HNlNQY3BzS3pXazZJdU5ETXd2SWVRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,National Geographic
+http://tv.ebox.live:8080/live/natg.m3u8
