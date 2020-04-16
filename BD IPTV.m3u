@@ -1418,7 +1418,7 @@ http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1,Channel 24 HD
 http://tv.ebox.live:8080/live/ch24youtube.m3u8
 #EXTINF:-1,Sony Entertainment television
-http://tvserver.roarzone.info:8082/81/index.m3u8
+http://tv.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1,Discovery Hindi
 http://tvserver.roarzone.info:8082/44/index.m3u8
 #EXTINF:-1,Discovery HD
