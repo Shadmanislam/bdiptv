@@ -1029,8 +1029,8 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
 #EXTINF:-1,Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
-#EXTINF:-1,Sony PIX
-https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
+#EXTINF:-1,Sony PIX HD
+http://tv.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1,Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Sony Pix
