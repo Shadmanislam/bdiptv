@@ -1465,3 +1465,5 @@ http://35.188.178.56:2132/kids2019/disneyhindi/playlist.m3u8?wmsAuthSign=c2VydmV
 http://tv.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1,Animal Planet 
 http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1,Star Plus HD 2
+http://tv.ebox.live:8080/live/star-plus.m3u8
