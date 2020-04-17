@@ -1281,3 +1281,5 @@ http://tv.ebox.live:8080/live/natg.m3u8
 http://tv.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1,Star Plus HD 2
 http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1,Sony SAB HD
+http://tv.ebox.live:8080/live/sony-sab.m3u8
