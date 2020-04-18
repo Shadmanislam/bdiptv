@@ -1285,3 +1285,5 @@ http://tv.ebox.live:8080/live/star-plus.m3u8
 http://tv.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1,Peace TV bangla
 http://tvserver.roarzone.info:2087/live/test/test/52.m3u8
+#EXTINF:-1,Ananda TV
+http://tvserver.roarzone.info:2087/live/test/test/39.m3u8
