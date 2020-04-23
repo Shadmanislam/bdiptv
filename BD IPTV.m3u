@@ -1289,3 +1289,7 @@ http://tvserver.roarzone.info:2087/live/test/test/52.m3u8
 http://tvserver.roarzone.info:2087/live/test/test/39.m3u8
 #EXTINF:-1,beIN SPORTS 
 http://tvserver.roarzone.info:8082/73/index.m3u8?token=d81666d84ca6e742c92b4e8cde6a1d37336b3216-ecc780307f8b2d7060d1da3339d27cb4-1587666637-1587655837&remote=103.60.175.152
+#EXTINF:-1,ATN Islamic TV 720p
+https://live.bongobd.com/hls/RSl4Isfbqit6EM_wDy0m1Q/1587659400/atn_islamic_tv_hi/index.m3u8
+#EXTINF:-1,ATN Islamic TV 360p
+https://live.bongobd.com/hls/RSl4Isfbqit6EM_wDy0m1Q/1587659400/atn_islamic_tv_low/index.m3u8
