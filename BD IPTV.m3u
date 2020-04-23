@@ -924,7 +924,7 @@ http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1,Sony ETV
-http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+http://tv.tajpata.com:8081/38/index.m3u8?token=9237d407c91cad105288b633c4e8fe31bce12912-c8b5e859c987f975525e40ffbe78a38f-1587665156-1587654356&remote=103.60.175.152
 #EXTINF:-1,Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1,Sony Mix
