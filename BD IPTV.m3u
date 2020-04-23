@@ -1293,3 +1293,5 @@ http://tvserver.roarzone.info:8082/73/index.m3u8?token=d81666d84ca6e742c92b4e8cd
 https://live.bongobd.com/hls/RSl4Isfbqit6EM_wDy0m1Q/1587659400/atn_islamic_tv_hi/index.m3u8
 #EXTINF:-1,ATN Islamic TV 360p
 https://live.bongobd.com/hls/RSl4Isfbqit6EM_wDy0m1Q/1587659400/atn_islamic_tv_low/index.m3u8
+#EXTINF:-1,News 24 HD (BD)
+http://tv.tajpata.com:8081/18/index.m3u8?token=4d67e6e75a2a32c995336801be865d6537468f8f-2039422d062155f1f0d804f95c2d3573-1587665645-1587654845&remote=103.60.175.152
