@@ -50,7 +50,7 @@ https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1,Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1,Channel 24
-http://tvserver.roarzone.info:8082/21/index.m3u8
+http://tv.tajpata.com:8081/5/index.m3u8?token=278af75cea7ed122f4ec34446d57aaf769acb6d7-d4f4cc6ef2b1c1d7e37329f7a40c030a-1587664504-1587653704&remote=103.60.175.152
 #EXTINF:-1,Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1,DBC News
