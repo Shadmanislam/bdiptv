@@ -1913,3 +1913,13 @@ http://103.205.133.42:1935/local/9xo_720/index.m3u8
 http://103.141.66.36/bpk-tv/10315/default/manifest.mpd
 #EXTINF:-1 , B4U Music
 http://103.141.66.36/bpk-tv/10282/default/manifest.mpd
+#EXTINF:-1 , Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1 , Animal planet
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1 , Fillmon TV (Live Hajj)
+http://45.249.187.238:8081/hls/new15.m3u8
+#EXTINF:-1 , Iqraa TV (Live Hajj)
+http://45.249.187.238:8081/hls/new11.m3u8
+#EXTINF:-1 , Hungama TV
+http://45.249.187.238:8081/hls/new11.m3u8
