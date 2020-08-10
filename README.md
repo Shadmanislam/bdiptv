@@ -20,15 +20,15 @@ VLC (Windows): https://www.videolan.org/vlc/
 
 MyIPTV Player (Windows) (Recommended) : https://bit.ly/2VoB33Q
 
-IPTV lite (android) : https://play.google.com/store/apps/details?id=com.appsgallery.lite.iptv
+IPTV player (android) : https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 
 IPTV Player play m3u playlist  (IOS , IPAD , Apple TV) : https://apps.apple.com/us/app/iptv-player-play-m3u-playlist/id1303327384
+
+IPTV Player For android TV : https://play.google.com/store/apps/details?id=com.onecode.livestream.iptv
 
 
 
 Tutorials
-
-Android (IPTV lite) : https://bit.ly/3egDdvi
 
 Windows (MyIPTV Player) (Recommended) : https://bit.ly/3a8wSPm
 
@@ -37,6 +37,5 @@ Windows (VLC) : https://bit.ly/2xmqXst
 
 Email: shadmanislam@zoho.com
 
-Support me on Patron :
 
 Disclaimer: This playlist is a collection of IPTV links. I do not own any of those tv channel, links, content. This is non-profit work for me. You can support me on patron.
