@@ -2061,3 +2061,219 @@ http://103.205.133.14/hls/ten2.m3u8
 http://103.205.133.14/hls/ten3.m3u8
 #EXTINF:-1 ,154.Sony Ten 3 [Extra]
 http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
+#EXTINF:-1,MAASRANGA TV
+http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
+#EXTINF:-1,EKATTOR TV
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
+#EXTINF:-1,NAGORIK TV
+http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+#EXTINF:-1,CHANNEL I
+http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
+#EXTINF:-1,DEPTO BANGLA
+http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
+#EXTINF:-1,GAZI TV
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+#EXTINF:-1,CHANNEL 9
+http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
+#EXTINF:-1,SATV
+http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
+#EXTINF:-1,NTV
+http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
+#EXTINF:-1,ATN BANGLA
+http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
+#EXTINF:-1,RTV
+http://172.32.1.88:1935/tvprogram/RTV-BANGLA/playlist.m3u8
+#EXTINF:-1,INDEPENDENT TV
+http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+#EXTINF:-1,JAMUNA TV
+http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+#EXTINF:-1,SOMOY TV
+http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
+#EXTINF:-1,EKUSHEY TV
+http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
+#EXTINF:-1,CHANNEL 24
+http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
+#EXTINF:-1,BANGLA VISION
+http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
+#EXTINF:-1,MY TV
+http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
+#EXTINF:-1,BTV
+http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
+#EXTINF:-1,SONY AATH
+http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
+#EXTINF:-1,ZEE BANGLA
+http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+#EXTINF:-1,STAR JALSHA
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1,TRAVEL XP
+http://172.32.1.88:1935/tvprogram/TRAVELXP-BANGLA/playlist.m3u8
+#EXTINF:-1,JALSHA MOVIES
+http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+#EXTINF:-1,SONY-HD
+http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
+#EXTINF:-1,STAR PLUS
+http://172.32.1.88:1935/tvprogram/STAR-PLUS/playlist.m3u8
+#EXTINF:-1,ZEE TV
+http://172.32.1.88:1935/tvprogram/ZEE-TV/playlist.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://172.32.1.88:1935/tvprogram/FOX-ACTION-MOVIES/playlist.m3u8
+#EXTINF:-1,LOTUS TV
+http://172.32.1.88:1935/tvprogram/FOX-MOVIES/playlist.m3u8
+#EXTINF:-1,COLORS
+http://172.32.1.88:1935/tvprogram/COLORS-SD/playlist.m3u8
+#EXTINF:-1,SETMAX HD
+http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
+#EXTINF:-1,STAR GOLD
+http://172.32.1.88:1935/tvprogram/STAR-GOLD/playlist.m3u8
+#EXTINF:-1,Hum Masala
+http://172.32.1.88:1935/tvprogram/Hum-Masala/playlist.m3u8
+#EXTINF:-1,Hum Sitaray
+http://172.32.1.88:1935/tvprogram/Hum-Sitaray/playlist.m3u8
+#EXTINF:-1,Bflix MOVIE
+http://172.32.1.88:1935/tvprogram/Bflix-MOVIE/playlist.m3u8
+#EXTINF:-1,B4U MOVIES
+http://172.32.1.88:1935/tvprogram/B4U-MOVIES/playlist.m3u8
+#EXTINF:-1,STAR UTSAV MOVIES
+http://172.32.1.88:1935/tvprogram/star-utsav-movies/playlist.m3u8
+#EXTINF:-1,SONY LEPLEX HD
+http://172.32.1.88:1935/tvprogram/LEPLEX-HD/playlist.m3u8
+#EXTINF:-1,SONY PIX HD
+http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
+#EXTINF:-1,&Flix
+http://172.32.1.88:1935/tvprogram/ZEE-STDIO/playlist.m3u8
+#EXTINF:-1,DIVA HD
+http://172.32.1.88:1935/tvprogram/UNIVERSAL-HD/playlist.m3u8
+#EXTINF:-1,AXN HD
+http://172.32.1.88:1935/tvprogram/AXN-HD/playlist.m3u8
+#EXTINF:-1,STAR MOVIES
+http://172.32.1.88:1935/tvprogram/STAR-MOVIES-SD/playlist.m3u8
+#EXTINF:-1,HBO
+http://172.32.1.88:1935/tvprogram/HBO/playlist.m3u8
+#EXTINF:-1,TLC HD
+http://172.32.1.88:1935/tvprogram/TLC-HDWORLD/playlist.m3u8
+#EXTINF:-1,BBC LIFESTYLE HD
+http://172.32.1.88:1935/tvprogram/BBC-Lifestyle/playlist.m3u8
+#EXTINF:-1,TEN 1 HD
+http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
+#EXTINF:-1,SONY ESPN HD 
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+#EXTINF:-1,SONY SIX HD
+http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
+#EXTINF:-1,TEN 2
+http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
+#EXTINF:-1,SONY TEN GOLF HD
+http://172.32.1.88:1935/tvprogram/TEN-GOLF/playlist.m3u8
+#EXTINF:-1,STAR SPORTS 1
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+#EXTINF:-1,DSPORTS
+http://172.32.1.88:1935/tvprogram/DSPORTS/playlist.m3u8
+#EXTINF:-1,STAR SPORTS FIRST
+http://172.32.1.88:1935/tvprogram/STAR-SP-FIRST/playlist.m3u8
+#EXTINF:-1,BBC WORLD
+http://172.32.1.88:1935/tvprogram/BBC-WORLD/playlist.m3u8
+#EXTINF:-1,Aljazeera HD
+http://172.32.1.88:1935/tvprogram/Aljazeera-HD/playlist.m3u8
+#EXTINF:-1,Kolkata TV
+http://172.32.1.88:1935/tvprogram/Kolkata-TV/playlist.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://172.32.1.88:1935/tvprogram/NATGEO-WILD/playlist.m3u8
+#EXTINF:-1,DISCOVERY ENGLISH
+http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
+#EXTINF:-1,BBC EARTH
+http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
+#EXTINF:-1,DURONTO TV
+http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://172.32.1.88:1935/tvprogram/CARTOON/playlist.m3u8
+#EXTINF:-1,DISENY CARTOON
+http://172.32.1.88:1935/tvprogram/DISENY/playlist.m3u8
+#EXTINF:-1,SONY YAY
+http://172.32.1.88:1935/tvprogram/SONY-YAY/playlist.m3u8
+#EXTINF:-1,CBeebies
+http://172.32.1.88:1935/tvprogram/CBeebies/playlist.m3u8
+#EXTINF:-1,NICK
+http://172.32.1.88:1935/tvprogram/NICK-SD/playlist.m3u8
+#EXTINF:-1,GAAN BANGLA
+http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
+#EXTINF:-1,SANGEET BANGLA
+http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
+#EXTINF:-1,MUSIC FATAFATI
+http://172.32.1.88:1935/tvprogram/FATAFATI/playlist.m3u8
+#EXTINF:-1,8XM
+http://172.32.1.88:1935/tvprogram/8XM/playlist.m3u8
+#EXTINF:-1,ETC
+http://172.32.1.88:1935/tvprogram/ETC/playlist.m3u8
+#EXTINF:-1,9XO
+http://172.32.1.88:1935/tvprogram/9XO/playlist.m3u8
+#EXTINF:-1,MTV
+http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
+#EXTINF:-1,9X JALWA
+http://172.32.1.88:1935/tvprogram/9X-JALWA/playlist.m3u8
+#EXTINF:-1,SONY ROX-HD
+http://172.32.1.88:1935/tvprogram/M-TUNE/playlist.m3u8
+#EXTINF:-1,MUSIC MASTI
+http://172.32.1.88:1935/tvprogram/MUSTI-MUSIC/playlist.m3u8
+#EXTINF:-1,B4U MUSIC
+http://172.32.1.88:1935/tvprogram/B4U-MUSIC/playlist.m3u8
+#EXTINF:-1,DHOOM MUSIC
+http://172.32.1.88:1935/tvprogram/Dhoom-Music/playlist.m3u8
+#EXTINF:-1,ZING
+http://172.32.1.88:1935/tvprogram/ZING-MUSIC/playlist.m3u8
+#EXTINF:-1,JALWA
+http://172.32.1.88:1935/tvprogram/JALWA-PK/playlist.m3u8
+#EXTINF:-1,E24
+http://172.32.1.88:1935/tvprogram/E24/playlist.m3u8
+#EXTINF:-1,MUSIC INDIA
+http://172.32.1.88:1935/tvprogram/MUSIC-INDIA/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
+#EXTINF:-1,History 2
+http://172.32.1.88:1935/tvprogram/H2/playlist.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
+#EXTINF:-1,Housefull Action
+http://172.32.1.88:1935/tvprogram/Housefull-Action/playlist.m3u8
+#EXTINF:-1,MUSIC BOX RUSSIA
+http://172.32.1.88:1935/tvprogram/MUSIC-BOX-RU/playlist.m3u8
+#EXTINF:-1,MUSIC BOX
+http://172.32.1.88:1935/tvprogram/MUSIC-BOX/playlist.m3u8
+#EXTINF:-1,CTC LOVE
+http://172.32.1.88:1935/tvprogram/CTC-LOVE/playlist.m3u8
+#EXTINF:-1,U+7
+http://172.32.1.88:1935/tvprogram/U7/playlist.m3u8
+#EXTINF:-1,REN TV
+http://172.32.1.88:1935/tvprogram/REN-TV/playlist.m3u8
+#EXTINF:-1,MUZ MUSIC
+http://172.32.1.88:1935/tvprogram/MUZ-MUSIC/playlist.m3u8
+#EXTINF:-1,CHANSON
+http://172.32.1.88:1935/tvprogram/CHANSON/playlist.m3u8
+#EXTINF:-1,MTV BEATS
+http://172.32.1.88:1935/tvprogram/MTV-BEATS/playlist.m3u8
+#EXTINF:-1,R PLUS
+http://172.32.1.88:1935/tvprogram/R-PLUS/playlist.m3u8
+#EXTINF:-1,R PLUS GOLD
+http://172.32.1.88:1935/tvprogram/R-Plus-Gold/playlist.m3u8
+#EXTINF:-1,AKASH AATH
+http://172.32.1.88:1935/tvprogram/Aakaash-Aath/playlist.m3u8
+#EXTINF:-1,RUPASI BANGLA
+http://172.32.1.88:1935/tvprogram/Rupasi-Bangla/playlist.m3u8
+#EXTINF:-1,BANGLA TIME
+http://172.32.1.88:1935/tvprogram/Bangla-Time/playlist.m3u8
+#EXTINF:-1,DW
+http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
+#EXTINF:-1,SEE TV HD
+http://172.32.1.88:1935/tvprogram/SEETV/playlist.m3u8
+#EXTINF:-1,Rishtey Cineplex
+http://172.32.1.88:1935/tvprogram/Rishtey-Cineplex/playlist.m3u8
+#EXTINF:-1,Zee Anmol Cinema
+http://172.32.1.88:1935/tvprogram/Zee-Anmol-Cinema/playlist.m3u8
+#EXTINF:-1,MOVIE HOUSE
+http://172.32.1.88:1935/tvprogram/MOVIE-HOUSE/playlist.m3u8
+#EXTINF:-1,WOW CINEMA
+http://172.32.1.88:1935/tvprogram/WOW-CINEMA/playlist.m3u8
+#EXTINF:-1,Housefull Movies
+http://172.32.1.88:1935/tvprogram/Housefull-Movies/playlist.m3u8
+#EXTINF:-1,Manoranjan Movies
+http://172.32.1.88:1935/tvprogram/Manoranjan-Movies/playlist.m3u8
