@@ -1,4 +1,4 @@
-Devolopment of this repository Do not expect any support, help and other things like that. Source is open, so you can fork everything.
+Devolopment of this repository is stopped Do not expect any support, help and other things like that. Source is open, so you can fork everything.
 
 IPTV playlist For Bangladeshi and indian channels.
 
