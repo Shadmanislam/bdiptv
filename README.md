@@ -1,3 +1,5 @@
+Devolopment of this repository is stopped Do not expect any support, help and other things like that. Source is open, so you can fork everything.
+
 IPTV playlist For Bangladeshi and indian channels.
 
 You can find 500+ channels in this IPTV playlist 
@@ -35,7 +37,6 @@ Windows (MyIPTV Player) (Recommended) : https://bit.ly/3a8wSPm
 Windows (VLC) : https://bit.ly/2xmqXst
 
 
-Email: shadmanislam@zoho.com
 
 
 Disclaimer: This playlist is a collection of IPTV links. I do not own any of those tv channel, links, content. This is non-profit work for me. You can support me on patron.
